@@ -43,6 +43,11 @@ Steps taken to learn how to recognize heart arrhythmias:
         		
 
 	Step 4 	Running the Program
+
+		javac LGD.java
+		java LGD
+                  (make sure you have Arrhythmia_TrainingData.csv and Arrhythmia_TestingData.csv)
+
 		file: Running the Program.docx – Instructions for running the Logistic Regression 
 			Algorithm. It will run in batch mode (preselected parameters) or
  			interactive mode (user selects the parameter and how long to run it). 
